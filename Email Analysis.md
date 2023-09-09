@@ -2,7 +2,10 @@
 
 Emails consist of two main parts: the header and the body. Analyzing both can reveal crucial information about the email's origin and potential threats.
 
-## Email Header Analysis
+
+</br> 
+
+# Email Header Analysis
 
 The email header contains essential information about the email's journey:
 
@@ -47,9 +50,9 @@ To access the header information, view the email in raw data format, [Here's a g
 
 - For attachment analysis, consider services like [Any.Run](https://app.any.run/) and [Joe Security](https://www.joesecurity.org/).
 
+</br>
 
-
-## Email Body Analysis
+# Email Body Analysis
 
 In the email body, focus on:
 
@@ -57,8 +60,9 @@ In the email body, focus on:
 
 - **Attachment Details:** Note the attachment's name and the attachment's hash value for further investigation.
 
+</br>
   
-## Automation
+# Automation
 
 For efficient analysis, consider using automation tools like [PhishTool](https://www.phishtool.com/), which can streamline the process of header analysis, URL checking, and attachment examination.
 
